@@ -1,46 +1,46 @@
 [
     {
       "ID": "001",
-      "Cover": "https://ibb.co/wr01MGP",
+      "Cover": "https://i.ibb.co/27dSw9P/coverchatgtp.jpg",
       "Title": "The Great Adventure",
       "Author": "Jane Smith",
-      "Image": "[Link to Image]",
+      "Image": "../src/images/girl1.jpg",
       "Posted": "2024-03-20",
       "Hashtag": "#AdventureTime"
     },
     {
       "ID": "002",
-      "Cover": "https://ibb.co/wr01MGP",
+      "Cover":"https://i.ibb.co/3CLBv9L/IMG-20231222-204710-007.jpg",
       "Title": "Mystery of the Lost Temple",
       "Author": "John Doe",
-      "Image": "[Link to Image]",
+      "Image": "../src/images/girl2.jpg",
       "Posted": "2024-03-21",
       "Hashtag": "#Mystery"
     },
     {
       "ID": "003",
-      "Cover": "https://ibb.co/wr01MGP",
+      "Cover": "../src/images/1.jpg",
       "Title": "Into the Unknown",
       "Author": "Emily Johnson",
-      "Image": "[Link to Image]",
+      "Image": "../src/images/boy1.png",
       "Posted": "2024-03-22",
       "Hashtag": "#Exploration"
     },
     {
       "ID": "004",
-      "Cover": "https://ibb.co/wr01MGP",
+      "Cover": "../src/images/2.png",
       "Title": "The Secret Garden",
       "Author": "Frances Hodgson Burnett",
-      "Image": "[Link to Image]",
+      "Image": "../src/images/boy2.png",
       "Posted": "2024-03-23",
       "Hashtag": "#Classic"
     },
     {
       "ID": "005",
-      "Cover": "https://ibb.co/wr01MGP",
+      "Cover":"../src/images/3.png",
       "Title": "The Art of War",
       "Author": "Sun Tzu",
-      "Image": "[Link to Image]",
+      "Image": "../src/images/girl1.jpg",
       "Posted": "2024-03-24",
       "Hashtag": "#Strategy"
     }
